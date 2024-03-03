@@ -1,0 +1,58 @@
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.exe
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.deps.json
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.runtimeconfig.json
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.dll
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.pdb
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.AssemblyReference.cache
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.GeneratedMSBuildEditorConfig.editorconfig
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfoInputs.cache
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfo.cs
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.CoreCompileInputs.cache
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.dll
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\refint\Avaliacao_5119.dll
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.pdb
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.genruntimeconfig.cache
+E:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\ref\Avaliacao_5119.dll
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.exe
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.deps.json
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.runtimeconfig.json
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.dll
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.pdb
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.AssemblyReference.cache
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.GeneratedMSBuildEditorConfig.editorconfig
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfoInputs.cache
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfo.cs
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.CoreCompileInputs.cache
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.dll
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\refint\Avaliacao_5119.dll
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.pdb
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.genruntimeconfig.cache
+H:\5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\ref\Avaliacao_5119.dll
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.exe
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.deps.json
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.runtimeconfig.json
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.dll
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.pdb
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfoInputs.cache
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfo.cs
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.CoreCompileInputs.cache
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.dll
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\refint\Avaliacao_5119.dll
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.pdb
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.genruntimeconfig.cache
+D:\Modulos completos\(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\ref\Avaliacao_5119.dll
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.exe
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.deps.json
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.runtimeconfig.json
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.dll
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\bin\Debug\net6.0\Avaliacao_5119.pdb
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfoInputs.cache
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.AssemblyInfo.cs
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.csproj.CoreCompileInputs.cache
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.dll
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\refint\Avaliacao_5119.dll
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.pdb
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\Avaliacao_5119.genruntimeconfig.cache
+D:\Modulos completos\x(20) - 5119 - C Sharp\Avaliacao_5119\Avaliacao_5119\obj\Debug\net6.0\ref\Avaliacao_5119.dll

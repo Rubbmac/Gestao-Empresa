@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zSmkMK7u+Vefbtd3n7WqtPCPQG6vFcwOOfzZyaTIEe5w3dr15m2jpH78GeJ834BBCdHqhBOSD7Zl78DDQ7AdQg==",
+  "success": true,
+  "projectFilePath": "D:\\Modulos completos\\x(20) - 5119 - C Sharp\\Avaliacao_5119\\Avaliacao_5119\\Avaliacao_5119.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rubma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rubma\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rubma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\rubma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
